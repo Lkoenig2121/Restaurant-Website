@@ -1,0 +1,23 @@
+{
+  "name": "covalence-navbar-redo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lkoenig2121/Restaurant-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lkoenig2121/Restaurant-Website/issues"
+  },
+  "homepage": "https://github.com/Lkoenig2121/Restaurant-Website#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "jquery": "^3.6.0"
+  }
+}
